@@ -22,7 +22,7 @@ This is a **hotel management application** developed as part of my **React.js tr
 ## 🚀 Live Demo & Testing  
 
 To test the interface, log in with:  
-- **Email:** `Test@test.com`  
+- **Email:** `test@test.com`  
 - **Password:** `12345678`  
 
 ## 📥 Installation & Setup  
